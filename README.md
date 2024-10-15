@@ -13,4 +13,5 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 ## 4:3 (640x480) bezels
 
 * GB: Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93)
+* GBC: Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93)
 * GBA: Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93)
