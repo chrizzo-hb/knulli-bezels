@@ -18,3 +18,4 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 * GBC: Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93)
 * Lynx: Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels)
 * NeoGeo Pocket: Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels)
+* NeoGeo Pocket Color: Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels)
