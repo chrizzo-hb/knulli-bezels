@@ -9,3 +9,7 @@ I did not create any of the bezels in this set and I do not claim any ownership.
 ## 16:9 (1920x1080) bezels
 
 All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel). All bezels by [Duimon](https://github.com/Duimon) have been published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## 4:3 (640x480) bezels
+
+* GBA: Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93)
