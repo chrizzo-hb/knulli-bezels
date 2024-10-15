@@ -16,4 +16,4 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 * GB: Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93)
 * GBA: Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93)
 * GBC: Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93)
-
+* Lynx: Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels)
