@@ -15,3 +15,4 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 * GB: Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93)
 * GBC: Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93)
 * GBA: Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93)
+* FBNeo/MAME vertical (90/270) by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by myself to 640x480 scale for vertical aspect ratio
