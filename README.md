@@ -1,8 +1,8 @@
 # knulli-bezels
 
-A compilation of bezels to be used with [Knulli](https://knulli.org/).
+A compilation of bezels to be used with [Knulli](https://knulli.org).
 
-Knulli is an open-source custom firmware (CFW) for handheld retro gaming devices. It is a fork of [Batocera](https://batocera.linux/).
+Knulli is an open-source custom firmware (CFW) for handheld retro gaming devices. It is a fork of [Batocera](https://batocera.org).
 
 This bezel set is maintained as a multi-resolution bezel set to be used with Knulli, which has recently adopted the capability of handling bezel sets with bezels for multiple different resolutions ([read more here](https://github.com/knulli-cfw/distribution/pull/131)). Multi-resolution bezel sets allow the users to choose a single bezel set which works just as well with the built-in OS screen as it does with a 16:9 TV set.
 
