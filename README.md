@@ -18,7 +18,6 @@ To keep it lightweight, balanced, and consistent, this bezel pack contains
 
 If you want to propose additions to this bezel set, feel free to hand in a pull request anytime. However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and/or links to the source of the proposed bezels.
 
-
 ## License
 
 All works in this repository are published under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), unless they are covered by a different license. You will find links to the original sources, authors, and licenses in the sections below.
