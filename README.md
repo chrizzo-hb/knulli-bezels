@@ -34,6 +34,7 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | MAME (vertical) | `fbneo-90-640x480`, `fbneo-270-640x480` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
 | Gameboy | `gb-640x480` | Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Advance | `gba-640x480` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Advance SP (alternative) | `gba-alt-640x480` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Color | `gbc-640x480` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Lynx | `lynx-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | Megaduck | `megaduck-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
