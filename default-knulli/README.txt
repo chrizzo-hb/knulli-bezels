@@ -23,7 +23,7 @@ fbneo-270-640x480	by fabricecaruso for Batocera Bezels
 			for vertical aspect ratio
 gb-640x480		Perfect DMG-EX (no grid) by mugwomp93
 gba-640x480		Perfect GBA (no grid) by mugwomp93
-gba-alt-640x480	Perfect GBA SP (no grid) by mugwomp93
+gba-alt-640x480		Perfect GBA SP (no grid) by mugwomp93
 gbc-640x480		Perfect GBC (no grid) by mugwomp93
 lynx-640x480		Overlay by drkhrse
 			converted to Batocera format by nvitaterna
