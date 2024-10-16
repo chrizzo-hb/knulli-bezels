@@ -25,7 +25,7 @@ All works in this repository are published under the [Creative Commons Attributi
 
 ## 16:9 (1920x1080) bezels
 
-All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel). All bezels by [Duimon](https://github.com/Duimon) have been published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). All Bezels made by the Batocera team have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html).
+All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel). All bezels by [Duimon](https://github.com/Duimon) have been published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). All bezels made by the Batocera team have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html).
 
 ## 4:3 (640x480) bezels
 
