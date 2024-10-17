@@ -8,7 +8,10 @@ https://github.com/chrizzo-hb/knulli-bezels
 
 Credits
 =======
-
+default-90-640x480	by Batocera Bezels
+			adopted by chrizzo-hb to 640x480 scale
+default-270-640x480	by Batocera Bezels
+			adopted by chrizzo-hb to 640x480 scale
 fbneo-90-640x480	by fabricecaruso for Batocera Bezels
 			adopted by chrizzo-hb to 640x480 scale
 			for vertical aspect ratio
