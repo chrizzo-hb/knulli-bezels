@@ -8,11 +8,13 @@ This bezel set is maintained as a multi-resolution bezel set to be used with Knu
 
 To keep it lightweight, balanced, and consistent, this bezel pack contains
 
-* System-specific bezels only (**no** game-specific bezels)
-* **Gridless** bezels only
-* 16:9 bezels mostly adopted directly from Batocera
-* 4:3 bezels with priority of **maxing out screen size** over integer scaling
-* Hardware-focused designs
+* **System-specific bezels** only (no game-specific bezels)
+* **Hardware-focused designs** to take you back memory lane
+* **Gridless** bezels only, no CRT effects
+* **16:9 bezels** mostly adopted directly **from Batocera**
+* **4:3 bezels** with priority of **maxing out screen size** over integer scaling
+* **No 4:3 bezels** for systems which were **designed for 4:3 screens**
+  (Some games, e.g., games for SEGA Game Gear or Nintendo Entertainment System (NES), have a resolution which corresponds to an aspect ratio of 10:9 or 8:7. However, the actual screens the systems have been played on had an aspect ratio of 4:3 - [the pixels were stretched!](https://misterfpga.org/viewtopic.php?p=13816&sid=deab7f52c41ae361889bbe5b0986eee5#p13816) This bezel set does **not** aim for pixel-perfect integer scaling but for the aspect ratio of the original **screens**. Hence, there will be no bezels for 4:3 systems on 4:3 screens.)
 
 ## Contribution
 
