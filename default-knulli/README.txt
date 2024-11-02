@@ -6,8 +6,8 @@ firmware for retro gaming handhelds. You can find the latest
 version of this bezel set here:
 https://github.com/chrizzo-hb/knulli-bezels
 
-Credits
-=======
+Credits (4:3)
+=============
 default-90-640x480	by Batocera Bezels
 			adopted by chrizzo-hb to 640x480 scale
 default-270-640x480	by Batocera Bezels
@@ -18,10 +18,10 @@ fbneo-90-640x480	by fabricecaruso for Batocera Bezels
 fbneo-270-640x480	by fabricecaruso for Batocera Bezels
 			adopted by chrizzo-hb to 640x480 scale
 			for vertical aspect ratio
-fbneo-90-640x480	by fabricecaruso for Batocera Bezels
+mame-90-640x480	by 	fabricecaruso for Batocera Bezels
 			adopted by chrizzo-hb to 640x480 scale
 			for vertical aspect ratio
-fbneo-270-640x480	by fabricecaruso for Batocera Bezels
+mame-270-640x480	by fabricecaruso for Batocera Bezels
 			adopted by chrizzo-hb to 640x480 scale
 			for vertical aspect ratio
 gb-640x480		Perfect DMG-EX (no grid) by mugwomp93
@@ -49,6 +49,25 @@ wswan-640x480		Overlay by antiKk
 			converted to Batocera format by nvitaterna
 wswanc-640x480		Overlay by antiKk
 			converted to Batocera format by nvitaterna
+
+Credits (1:1)
+=============
+default-90-720x720	by Batocera Bezels
+			adopted by chrizzo-hb to 720x720 scale
+default-270-720x720	by Batocera Bezels
+			adopted by chrizzo-hb to 720x720 scale
+fbneo-90-720x720	by fabricecaruso for Batocera Bezels
+			adopted by chrizzo-hb to 720x720 scale
+			for vertical aspect ratio
+fbneo-270-720x720	by fabricecaruso for Batocera Bezels
+			adopted by chrizzo-hb to 720x720 scale
+			for vertical aspect ratio
+mame-90-720x720		by fabricecaruso for Batocera Bezels
+			adopted by chrizzo-hb to 720x720 scale
+			for vertical aspect ratio
+mame-270-720x720	by fabricecaruso for Batocera Bezels
+			adopted by chrizzo-hb to 720x720 scale
+			for vertical aspect ratio
 
 All remaining bezels have been created by the Batocera team,
 some of them by Duimon, you can tell from the watermark!

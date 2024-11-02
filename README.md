@@ -51,3 +51,10 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | WonderSwan | `wswan-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | WonderSwan Color | `wswanc-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 
+## 1:1 (720x720) bezels
+
+| System | Filename | Source |
+| ------ | -------- | ------ |
+| Default (vertical) | `default-90-720x720`, `default-270-720x720` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| FBNeo (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| MAME (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
