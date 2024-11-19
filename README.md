@@ -61,6 +61,8 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | Atari 2600 | `atari2600-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Atari 5200 | `atari5200-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Atari 7800 | `atari7800-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari Lynx | `lynx-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari Lynx (vertical) | `lynx-90-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Dreamcast | `dreamcast-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Famicom Disk System | `fds-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Gameboy | `gb-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
@@ -71,6 +73,8 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | Mega Drive | `megadrive-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | N64 | `n64-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | NeoGeo | `neogeo-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| NeoGeo Pocket | `ngp-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| NeoGeo Pocket Color | `ngpc-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
 | NES | `nes-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | PC Engine | `pcengine-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine |
 | PC Engine CD | `pcenginecd-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine CD |
