@@ -1,10 +1,10 @@
-# knulli-bezels
+# KNULLI Bezels
 
-A compilation of bezels to be used with [Knulli](https://knulli.org).
+A compilation of bezels to be used with [KNULLI](https://knulli.org).
 
-Knulli is an open-source custom firmware (CFW) for handheld retro gaming devices. It is a fork of [Batocera](https://batocera.org).
+KNULLI is an open-source custom firmware (CFW) for **handheld** retro gaming devices. It is a fork of [Batocera](https://batocera.org).
 
-This bezel set is maintained as a multi-resolution bezel set to be used with Knulli, which has recently adopted the capability of handling bezel sets with bezels for multiple different resolutions ([read more here](https://github.com/knulli-cfw/distribution/pull/131)). Multi-resolution bezel sets allow the users to choose a single bezel set which works just as well with the built-in OS screen as it does with a 16:9 TV set.
+This bezel set is maintained as a **multi-resolution bezel set** to be used with KNULLI. Since **KNULLI Firefly**, the CFW allows to use sets of bezels for multiple different resolutions ([read more here](https://github.com/knulli-cfw/distribution/pull/131)). Multi-resolution bezel sets allow the users to **choose a single bezel set** which will **work just as well** on the **built-in screen** of the handheld device as it does on a **16:9 TV set** when the device is plugged via HDMI.
 
 To keep it lightweight, balanced, and consistent, this bezel pack contains
 
@@ -16,9 +16,23 @@ To keep it lightweight, balanced, and consistent, this bezel pack contains
 * **4:3 bezels** with priority of **maxing out screen size** over integer scaling
 * **No 4:3 bezels** for systems which were **designed for 4:3 screens**
   (Some games, e.g., games for SEGA Game Gear or Nintendo Entertainment System (NES), have a resolution which corresponds to an aspect ratio of 10:9 or 8:7. However, the actual screens the systems have been played on had an aspect ratio of 4:3 - [the pixels were stretched!](https://misterfpga.org/viewtopic.php?p=13816&sid=deab7f52c41ae361889bbe5b0986eee5#p13816) This bezel set does **not** aim for pixel-perfect integer scaling but for the aspect ratio of the original **screens**. Hence, there will be no bezels for 4:3 systems on 4:3 screens.)
+
+Most of the bezel decorations in this set have **not** been created by myself. I only maintain this collection as a service to the retro-gaming community (and also for my own personal needs). You will find a detailed list of the sources of all the different bezels below.
+
+## Installation
+
+The KNULLI bezel set `default-knulli` comes **pre-installed** with KNULLI since the **Firefly** version. However, if the pre-installed version of the bezel set is outdated or if you wish to modify it to your liking, you can manually install it on your KNULLI device:
+
+* **[Download](https://github.com/chrizzo-hb/knulli-bezels/archive/refs/heads/main.zip)** the bezel pack from this GitHub repository
+* **unpack** the bezel pack (e.g., with [7Zip](https://www.7-zip.org/))
+* **enable** the bezel pack on your KNULLI device by
+    * **copying** the **entire folder** `default-knulli` to your KNULLI device into the `decorations` folder
+    * **selecting** *KNULLI-DEFAULT* in the *Decorations* subsection of the *Game Settings*
+    * (If you need any help with setting up the bezel set, do not worry, the KNULLI website has a [section on Bezel decorations](https://knulli.org/configure/customization/bezel-decorations/))
+
 ## Contribution
 
-If you want to propose additions to this bezel set, feel free to hand in a pull request anytime. However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and/or links to the source of the proposed bezels.
+If you want to propose additions or changes to this bezel set, feel free to hand in a pull request anytim! However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and/or links to the source of the proposed bezels.
 
 ## License
 
@@ -26,7 +40,7 @@ All works in this repository are published under the [Creative Commons Attributi
 
 ## 16:9 (1920x1080) bezels
 
-All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel). All bezels by [Duimon](https://github.com/Duimon) have been published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). All bezels made by the Batocera team have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html).
+All 16:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel). All bezels by [Duimon](https://github.com/Duimon) have been published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). All bezels made by the Batocera team have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html).
 
 ## 4:3 (640x480) bezels
 
