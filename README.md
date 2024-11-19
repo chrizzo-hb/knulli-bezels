@@ -32,7 +32,7 @@ The KNULLI bezel set `default-knulli` comes **pre-installed** with KNULLI since 
 
 ## Contribution
 
-If you want to propose additions or changes to this bezel set, feel free to hand in a pull request anytim! However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and/or links to the source of the proposed bezels.
+If you want to propose additions or changes to this bezel set, feel free to hand in a pull request anytime! However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and/or links to the source of the proposed bezels.
 
 ## License
 
