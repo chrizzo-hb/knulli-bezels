@@ -56,8 +56,10 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | System | Filename | Source |
 | ------ | -------- | ------ |
 | Default (vertical) | `default-90-720x720`, `default-270-720x720` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| MAME | `fbneo-720x720` | by [gonejack](https://github.com/gonejack/rgb30) |
 | FBNeo (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
-| MAME (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| MAME | `mame-720x720` | by [gonejack](https://github.com/gonejack/rgb30) |
+| MAME (vertical) | `mame-90-720x720`, `mame-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
 | Amiga | `amiga-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
 | Amiga 500 | `amiga500-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
 | Amiga 600 | `amiga-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
