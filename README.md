@@ -58,6 +58,12 @@ All 19:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | Default (vertical) | `default-90-720x720`, `default-270-720x720` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
 | FBNeo (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
 | MAME (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| Amiga | `amiga-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga 500 | `amiga500-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga 600 | `amiga-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga 1200 | `amiga-1200-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga CD32 | `amigacd32-1200-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga CDTV | `amigacdtv-1200-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
 | Atari 2600 | `atari2600-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Atari 5200 | `atari5200-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Atari 7800 | `atari7800-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
