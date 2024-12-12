@@ -65,6 +65,10 @@ All 16:9 bezels have been adopted from [Batocera Bezels](https://github.com/bato
 | WonderSwan | `wswan-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | WonderSwan Color | `wswanc-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 
+## 4:3 (1024x768) bezels
+
+Same as 640x480. All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 1024x768.
+
 ## 1:1 (720x720) bezels
 
 | System | Filename | Source |

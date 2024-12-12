@@ -6,8 +6,8 @@ firmware for retro gaming handhelds. You can find the latest
 version of this bezel set here:
 https://github.com/chrizzo-hb/knulli-bezels
 
-Credits (4:3)
-=============
+Credits (4:3 640x480)
+=====================
 default-90-640x480	by Batocera Bezels
 			adopted by chrizzo-hb to 640x480 scale
 default-270-640x480	by Batocera Bezels
@@ -49,6 +49,10 @@ wswan-640x480		Overlay by antiKk
 			converted to Batocera format by nvitaterna
 wswanc-640x480		Overlay by antiKk
 			converted to Batocera format by nvitaterna
+			
+Credits (4:3 1024x768)
+=====================
+Same credits as 640x480, upscaled by chrizzo-hb
 
 Credits (1:1)
 =============
