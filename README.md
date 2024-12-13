@@ -27,7 +27,7 @@ The KNULLI bezel set `default-knulli` comes **pre-installed** with KNULLI since 
 * **unpack** the bezel pack (e.g., with [7Zip](https://www.7-zip.org/))
 * **enable** the bezel pack on your KNULLI device by
     * **copying** the **entire folder** `default-knulli` to your KNULLI device into the `decorations` folder
-    * **selecting** *KNULLI-DEFAULT* in the *Decorations* subsection of the *Game Settings*
+    * **selecting** *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
     * (If you need any help with setting up the bezel set, do not worry, the KNULLI website has a [section on Bezel decorations](https://knulli.org/configure/customization/bezel-decorations/))
 
 ## Contribution
