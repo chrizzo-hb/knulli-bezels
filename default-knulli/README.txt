@@ -135,6 +135,8 @@ amigacdtv-1200-600-720x720      by chrizzo-hb
 atari2600-720x720               Boxart Bezel by Vidnez
 atari5200-720x720               Boxart Bezel by Vidnez
 atari7800-720x720               Boxart Bezel by Vidnez
+c64-720x720                     by chrizzo-hb
+                                based on DOSBox Overlay by Ifan
 lynx-720x720                    Boxart Bezel by Vidnez
 lynx-90-720x720                 Boxart Bezel by Vidnez
 dos-720x720                     Bezel by chrizzo-hb
