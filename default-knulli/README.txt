@@ -12,17 +12,24 @@ Credits (16:9/3:2 1920x1080/720x480)
 All 16:9 and 3:2 bezels have been adopted from Batocera
 (https://github.com/batocera-linux/batocera-bezel) and 
 have been published under the LGPL v3 License
-(https://www.gnu.org/licenses/lgpl-3.0.html).
+(https://www.gnu.org/licenses/lgpl-3.0.html), except for
+the bezels listed below.
 
-Except for the bezels listed below, which have been created
-by Duimon (https://github.com/Duimon) for Batocera bezels
-and have been published under a Creative Commons
-Attribution-NonCommercial-NoDerivatives 4.0 International
-License (https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
+amiga                           by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+amiga-720x480                   by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+amiga500                        by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+amiga-500-720x480               by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 snes                            by Duimon for Batocera Bezels
                                 https://github.com/Duimon
-                                License: CC BY-NC-ND 
+                                License: CC BY-NC-ND
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND

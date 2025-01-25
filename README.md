@@ -38,14 +38,14 @@ If you want to propose additions or changes to this bezel set, feel free to hand
 
 All works in this repository are published under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), unless they are covered by a different license. You will find links to the original sources, authors, and licenses in the sections below.
 
-## 16:9 (1920x1080) and 4:2 (720x480) bezels
+## 16:9 (1920x1080) and 3:2 (720x480) bezels
 
-All 16:9/3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html).Except for the bezels listed below, which have been created by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-## 3:2 (720x480) bezels
+All 16:9/3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels listed below.
 
 | System | Filename | Source |
 | ------ | -------- | ------ |
+| Amiga | `amiga`, `amiga-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Amiga 500 | `amiga500`, `amiga500-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | SNES | `snes`, `snes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 
 ## 4:3 (640x480) bezels
