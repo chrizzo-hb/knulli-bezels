@@ -99,6 +99,12 @@ neogeocd-720x480                by Duimon for Batocera Bezels
 nes-720x480                     by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
+ngp-720x480                     by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+ngpc-720x480                    by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
