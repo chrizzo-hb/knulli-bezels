@@ -58,6 +58,8 @@ All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batoc
 | Game Gear | `gamegear-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
 | Gameboy | `gb`, `gb-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | Gameboy Color | `gbc`, `gbc-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Atari Lynx (horizontal) | `lynx-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), adapted and converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Atari Lynx (vertical)| `lynx-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | SNES | `snes`, `snes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 
 ## 4:3 (640x480) bezels
@@ -71,7 +73,8 @@ All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batoc
 | Gameboy Advance | `gba-640x480` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Advance SP (alternative) | `gba-alt-640x480` | Perfect GBA SP (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Color | `gbc-640x480` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Lynx | `lynx-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Atari Lynx (horizontal) | `lynx-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Atari Lynx (vertical)| `lynx-640x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | Megaduck | `megaduck-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
 | NeoGeo Pocket | `ngp-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | NeoGeo Pocket Color | `ngpc-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |

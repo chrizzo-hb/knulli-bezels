@@ -77,6 +77,8 @@ gb-720x480                      by Duimon for Batocera Bezels
 gbc-720x480                     by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
+lynx-720x480                    Overlay by drkhrse
+                                converted to Batocera format by chrizzo-hb
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
