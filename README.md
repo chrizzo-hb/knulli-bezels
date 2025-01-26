@@ -38,9 +38,13 @@ If you want to propose additions or changes to this bezel set, feel free to hand
 
 All works in this repository are published under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), unless they are covered by a different license. You will find links to the original sources, authors, and licenses in the sections below.
 
-## 16:9 (1920x1080) and 3:2 (720x480) bezels
+## 16:9 (1920x1080) bezels
 
-All 16:9/3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels listed below.
+All 16:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License].
+
+## 3:2 (720x480) bezels
+
+All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels listed below.
 
 | System | Filename | Source |
 | ------ | -------- | ------ |
@@ -51,6 +55,7 @@ All 16:9/3:2 bezels have been adopted from [Batocera Bezels](https://github.com/
 | Atari 7800 | `atari7800`, `atari7800-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | C64 | `c64`, `c64-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | Dreamcast | `dreamcast`, `dreamcast-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Game Gear | `gamegear-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
 | SNES | `snes`, `snes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 
 ## 4:3 (640x480) bezels
