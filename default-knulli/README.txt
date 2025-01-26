@@ -69,8 +69,14 @@ c64-720x480                     by Duimon for Batocera Bezels
 dreamcast-720x480               by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-gamegear-640x480                Overlay by drkhrse
+gamegear-720x480                Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
+gb-720x480                      by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+gbc-720x480                     by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
