@@ -87,6 +87,18 @@ megadrive-720x480               by Duimon for Batocera Bezels
                                 License: CC BY-NC-ND
 megaduck-720x480                Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
+n64-720x480                     by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+neogeo-720x480                  by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+neogeocd-720x480                by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+nes-720x480                     by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
