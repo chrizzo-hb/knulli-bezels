@@ -154,6 +154,9 @@ wswanc-720x480                  by Duimon for Batocera Bezels
 wswanc-90-720x480               by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
+x68000-90-720x480               by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 
 
 Credits (4:3 640x480/1024x768)
