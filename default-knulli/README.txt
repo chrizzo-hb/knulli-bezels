@@ -113,6 +113,9 @@ pcenginecd-720x480              by Duimon for Batocera Bezels
                                 License: CC BY-NC-ND
 pico8-720x480                   Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
+psp-720x480                    by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
