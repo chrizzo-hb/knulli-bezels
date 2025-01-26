@@ -233,6 +233,7 @@ pcengine-720x720                Boxart Bezel by Vidnez
 pcenginecd-720x720              Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width and PC Engine CD
 psx-720x720                     Boxart Bezel by Vidnez
+psp-720x720                     Bezel by chrizzo-hb
 scummvm-720x720                 Bezel by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
 sega32x-720x720                 Boxart Bezel by Vidnez
