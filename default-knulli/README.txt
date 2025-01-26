@@ -142,6 +142,18 @@ snes_msu-1-720x480              by Duimon for Batocera Bezels
                                 License: CC BY-NC-ND
 supervision-720x480             Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
+wswan-720x480                   by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+wswan-90-720x480                by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+wswanc-720x480                  by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+wswanc-90-720x480               by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
 
 
 Credits (4:3 640x480/1024x768)

@@ -83,7 +83,10 @@ All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batoc
 | SNES MSU-1 | `snes_msu-1-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | Supervision | `supervision-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | Virtual Boy | `virtualboy-720x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-
+| Wonderswan | `wswan-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Wonderswan (vertical) | `wswan-90-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Wonderswan Color | `wswanc-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Wonderswan Color (vertical) | `wswanc-90-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 
 ## 4:3 (640x480) bezels
 
