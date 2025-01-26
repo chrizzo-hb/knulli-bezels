@@ -137,6 +137,11 @@ sg1000-720x480                  by Duimon for Batocera Bezels
 snes-720x480                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
+snes_msu-1-720x480              by Duimon for Batocera Bezels
+                                https://github.com/Duimon
+                                License: CC BY-NC-ND
+supervision-720x480             Overlay by drkhrse
+                                converted to Batocera format by chrizzo-hb
 
 
 Credits (4:3 640x480/1024x768)

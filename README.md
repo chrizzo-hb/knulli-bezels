@@ -76,11 +76,14 @@ All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batoc
 | PlayStation | `psx-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | Saturn | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | ScummVM | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
-
 | Sega 32x | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | Sega CD | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
 | SG-1000 | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
-| SNES | `snes`, `snes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| SNES | `snes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| SNES MSU-1 | `snes_msu-1-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License] |
+| Supervision | `supervision-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Virtual Boy | `virtualboy-720x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+
 
 ## 4:3 (640x480) bezels
 
