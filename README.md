@@ -12,6 +12,7 @@ To keep it lightweight, balanced, and consistent, this bezel pack contains
 * **Hardware- and box-art focused designs** to take you back memory lane
 * **Gridless** bezels only, no CRT effects
 * **16:9 bezels** mostly adopted directly **from Batocera**
+* **3:2 bezels** mostly adopted **from Batocera** with priority of **maxing out screen size** over integer scaling
 * **1:1 bezels** with priority of **maxing out screen size** over integer scaling
 * **4:3 bezels** with priority of **maxing out screen size** over integer scaling
 * **No 4:3 bezels** for systems which were **designed for 4:3 screens**
