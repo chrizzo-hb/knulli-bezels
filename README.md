@@ -31,9 +31,42 @@ The KNULLI bezel set `default-knulli` comes **pre-installed** with KNULLI since 
     * **selecting** *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
     * (If you need any help with setting up the bezel set, do not worry, the KNULLI website has a [section on Bezel decorations](https://knulli.org/configure/customization/bezel-decorations/))
 
+### Customization
+
+If you like the pre-installed version of  `default-knulli` on your KNULLI device but would like to customize a little bit by replacing specific bezels, try the following:
+
+* On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
+* Create a new folder `default-knulli` inside your `decorations` folder
+* Create a new folder `systems` inside the `default-knulli` folder
+* Create a new folder `games` inside the `default-knulli` folder
+* Put your preferred system- or game-specific bezel `png` files into the respective folder
+* Mind the naming pattern:
+    * `<system>.png` for 16:9 bezels, e.g. `mame.png` for MAME
+    * `<system>-<rotation>.png` for 16:9 bezels for rotated games, e.g. `mame-90.png` or `mame-270.png` for vertical MAME games which are rotated by 90°/270°
+    * `<system>-<resolution>.png` for bezels with a device-specific resolution, e.g. `mame-640x480.png` for a 4:3 aspect ratio 640x480 screen
+    * `<system>-<rotation>-<resolution>.png` for bezels for rotated games with a device-specific resolution, e.g. `mame-90-640x480.png` for running games which are rotated by 90° on a 4:3 aspect ratio 640x480 screen
+* Add a corresponding `info` file for every bezel, e.g. `mame-640x480.info` for `mame-640x480.png`
+    * `width` and `height` set the total screen resolution
+    * `top`, `bottom`, `left`, and `right` are directional offsets from the respective borders of the screen
+    * See example below
+
+```
+{
+   "width":720,
+   "height":480,
+   "top":6,
+   "left":48,
+   "bottom":8,
+   "right":51,
+   "opacity":1.0000000,
+   "messagex":0.220000,
+   "messagey":0.120000
+}
+```
+
 ## Contribution
 
-If you want to propose additions or changes to this bezel set, feel free to hand in a pull request anytime! However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and/or links to the source of the proposed bezels.
+If you want to propose additions or changes to this bezel set, feel free to hand in a pull request anytime! However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and links to the sources of the proposed bezels.
 
 ## License
 
