@@ -66,17 +66,21 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 
 ### Example: Replacing the GBA bezel decoration with a GBA SP variant
 
-While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 640x480 displays.
+While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 640x480/1024x768 displays.
 
 You can use the customization options as explained above to **override** the default GBA bezel with a GBA SP bezel:
 
 * On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
 * Create a new folder `default-knulli` inside your `decorations` folder
 * Create a new folder `systems` inside the `default-knulli` folder
-* Download the [gba-alt-640x480.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-640x480.png) bezel image from this repository
-* Download the [gba-640x480.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-640x480.info) bezel info file from this repository
+* For a 640x480 display
+    * download the [gba-alt-640x480.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-640x480.png) bezel image from this repository
+    * download the [gba-640x480.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-640x480.info) bezel info file from this repository
+* For a 1024x768 display
+    * download the [gba-alt-1024x768.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-1024x768.png) bezel image from this repository
+    * download the [gba-1024x768.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-1024x768.info) bezel info file from this repository
 * Copy both files to your new `decorations/default-knulli/systems` folder
-* Make sure to **rename** `gba-alt-640x480.png` to `gba-640x480.png`!
+* Make sure to **rename** `gba-alt-640x480.png` to `gba-640x480.png` (or `gba-alt-1024x768.png` to `gba-1024x768.png`)!
 
 Now launch a GBA game and be amazed that your original GBA bezel has been replaced by the SP variant!
 
