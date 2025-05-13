@@ -64,6 +64,22 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 }
 ```
 
+### Example: Replacing the GBA bezel decoration with a GBA SP variant
+
+While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 640x480 displays.
+
+You can use the customization options as explained above to **override** the default GBA bezel with a GBA SP bezel:
+
+* On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
+* Create a new folder `default-knulli` inside your `decorations` folder
+* Create a new folder `systems` inside the `default-knulli` folder
+* Download the [gba-alt-640x480.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-640x480.png) bezel image from this repository
+* Download the [gba-640x480.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-640x480.info) bezel info file from this repository
+* Copy both files to your new `decorations/default-knulli/systems` folder
+* Make sure to **rename** `gba-alt-640x480.png` to `gba-640x480.png`!
+
+Now launch a GBA game and be amazed that your original GBA bezel has been replaced by the SP variant!
+
 ## Contribution
 
 If you want to propose additions or changes to this bezel set, feel free to hand in a pull request anytime! However, please be aware that any bezel that might not match the overall theme of the set might be rejected. If you hand in a pull-request, make sure to add licensing information and links to the sources of the proposed bezels.
@@ -132,7 +148,7 @@ All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batoc
 | MAME (vertical) | `fbneo-90-640x480`, `fbneo-270-640x480` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
 | Gameboy | `gb-640x480` | Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Advance | `gba-640x480` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Gameboy Advance SP (alternative) | `gba-alt-640x480` | Perfect GBA SP (no grid) by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Advance SP (alternative) | `gba-alt-640x480` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
 | Gameboy Color | `gbc-640x480` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Atari Lynx (horizontal) | `lynx-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | Atari Lynx (vertical)| `lynx-640x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
