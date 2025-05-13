@@ -181,7 +181,8 @@ gamegear-640x480                Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
 gb-640x480                      Perfect DMG-EX (no grid) by mugwomp93
 gba-640x480                     Perfect GBA (no grid) by mugwomp93
-gba-alt-640x480                 Perfect GBA SP (no grid) by mugwomp93
+gba-alt-640x480                 Perfect GBA SP (no grid) by C1PH3RR
+                                adopted by chrizzo-hb
 gbc-640x480                     Perfect GBC (no grid) by mugwomp93
 lynx-640x480                    Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
