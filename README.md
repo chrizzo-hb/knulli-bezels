@@ -41,11 +41,9 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 * Create a new folder `games` inside the `default-knulli` folder
 * Put your preferred system- or game-specific bezel `png` files into the respective folder
 * Mind the naming pattern:
-    * `<system>.png` for 16:9 bezels, e.g. `mame.png` for MAME
-    * `<system>-<rotation>.png` for 16:9 bezels for rotated games, e.g. `mame-90.png` or `mame-270.png` for vertical MAME games which are rotated by 90°/270°
-    * `<system>-<resolution>.png` for bezels with a device-specific resolution, e.g. `mame-640x480.png` for a 4:3 aspect ratio 640x480 screen
-    * `<system>-<rotation>-<resolution>.png` for bezels for rotated games with a device-specific resolution, e.g. `mame-90-640x480.png` for running games which are rotated by 90° on a 4:3 aspect ratio 640x480 screen
-* Add a corresponding `info` file for every bezel, e.g. `mame-640x480.info` for `mame-640x480.png`
+    * `<system>-<resolution>.png` for bezels with a specific aspect ratio, e.g. `mame-4_3.png` for a 4:3 aspect ratio 640x480 screen
+    * `<system>-<rotation>-<resolution>.png` for bezels for rotated games with a device-specific resolution, e.g. `mame-90-4_3.png` for running games which are rotated by 90° on a 4:3 aspect ratio 640x480 screen
+* Add a corresponding `info` file for every bezel, e.g. `mame-4_3.info` for `mame-4_3.png`
     * `width` and `height` set the total screen resolution
     * `top`, `bottom`, `left`, and `right` are directional offsets from the respective borders of the screen
     * See example below
@@ -66,21 +64,17 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 
 ### Example: Replacing the GBA bezel decoration with a GBA SP variant
 
-While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 640x480/1024x768 displays.
+While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 4:3 displays.
 
 You can use the customization options as explained above to **override** the default GBA bezel with a GBA SP bezel:
 
 * On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
 * Create a new folder `default-knulli` inside your `decorations` folder
 * Create a new folder `systems` inside the `default-knulli` folder
-* For a 640x480 display
-    * download the [gba-alt-640x480.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-640x480.png) bezel image from this repository
-    * download the [gba-640x480.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-640x480.info) bezel info file from this repository
-* For a 1024x768 display
-    * download the [gba-alt-1024x768.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-1024x768.png) bezel image from this repository
-    * download the [gba-1024x768.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-1024x768.info) bezel info file from this repository
+* download the [gba-alt-4_3.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-4_3.png) bezel image from this repository
+* download the [gba-4_3.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-4_3.info) bezel info file from this repository
 * Copy both files to your new `decorations/default-knulli/systems` folder
-* Make sure to **rename** `gba-alt-640x480.png` to `gba-640x480.png` (or `gba-alt-1024x768.png` to `gba-1024x768.png`)!
+* Make sure to **rename** `gba-alt-4_3.png` to `gba-4_3.png`!
 
 Now launch a GBA game and be amazed that your original GBA bezel has been replaced by the SP variant!
 
@@ -92,133 +86,131 @@ If you want to propose additions or changes to this bezel set, feel free to hand
 
 All works in this repository are published under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), unless they are covered by a different license. You will find links to the original sources, authors, and licenses in the sections below.
 
-## 16:9 (1920x1080) bezels
+## 16:9 bezels
 
 All 16:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## 3:2 (720x480) bezels
+## 3:2 bezels
 
 All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels listed below.
 
 | System | Filename | Source |
 | ------ | -------- | ------ |
-| Amiga | `amiga-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Amiga 500 | `amiga500-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Atari 2600 | `atari2600-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Atari 5200 | `atari5200-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Atari 7800 | `atari7800-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| C64 | `c64-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Dreamcast | `dreamcast-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Game Gear | `gamegear-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| Gameboy | `gb-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Gameboy Color | `gbc-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Atari Lynx (horizontal) | `lynx-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), adapted and converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| Atari Lynx (vertical)| `lynx-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Master System | `mastersystem-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Mega Drive | `megadrive-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Megaduck | `megaduck-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| N64 | `n64-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| NeoGeo | `neogeo-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| NeoGeo CD | `neogeocd-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| NES | `nes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| NeoGeo Pocket | `ngp-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| NeoGeo Pocket Color | `ngpc-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| PC Engine | `pcengine-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| PC Engine CD | `pcenginecd-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Pico-8 | `pico8-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| PlayStation Portable | `psp-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| PlayStation | `psx-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Saturn | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| ScummVM | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Sega 32x | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Sega CD | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| SG-1000 | `saturn-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| SNES | `snes-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| SNES MSU-1 | `snes_msu-1-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Supervision | `supervision-720x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| Virtual Boy | `virtualboy-720x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| Wonderswan | `wswan-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Wonderswan (vertical) | `wswan-90-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Wonderswan Color | `wswanc-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Wonderswan Color (vertical) | `wswanc-90-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| X68000 | `x68000-90-720x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Amiga | `amiga-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Amiga 500 | `amiga500-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Atari 2600 | `atari2600-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Atari 5200 | `atari5200-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Atari 7800 | `atari7800-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| C64 | `c64-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Dreamcast | `dreamcast-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Game Gear | `gamegear-3_2` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Gameboy | `gb-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Gameboy Color | `gbc-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Atari Lynx (horizontal) | `lynx-3_2` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), adapted and converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Atari Lynx (vertical)| `lynx-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Master System | `mastersystem-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Mega Drive | `megadrive-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Megaduck | `megaduck-3_2` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| N64 | `n64-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| NeoGeo | `neogeo-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| NeoGeo CD | `neogeocd-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| NES | `nes-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| NeoGeo Pocket | `ngp-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| NeoGeo Pocket Color | `ngpc-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| PC Engine | `pcengine-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| PC Engine CD | `pcenginecd-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Pico-8 | `pico8-3_2` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| PlayStation Portable | `psp-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| PlayStation | `psx-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Saturn | `saturn-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| ScummVM | `saturn-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Sega 32x | `saturn-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Sega CD | `saturn-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| SG-1000 | `saturn-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| SNES | `snes-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| SNES MSU-1 | `snes_msu-1-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Supervision | `supervision-3_2` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Virtual Boy | `virtualboy-3_2` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Wonderswan | `wswan-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Wonderswan (vertical) | `wswan-90-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Wonderswan Color | `wswanc-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Wonderswan Color (vertical) | `wswanc-90-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| X68000 | `x68000-90-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
-## 4:3 (640x480) bezels
+## 4:3 bezels
 
-| System | Filename | Source |
-| ------ | -------- | ------ |
-| Default (vertical) | `default-90-640x480`, `default-270-640x480` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
-| FBNeo (vertical) | `fbneo-90-640x480`, `fbneo-270-640x480` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
-| MAME (vertical) | `fbneo-90-640x480`, `fbneo-270-640x480` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
-| Gameboy | `gb-640x480` | Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Gameboy Advance | `gba-640x480` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Gameboy Advance SP (alternative) | `gba-alt-640x480` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
-| Gameboy Color | `gbc-640x480` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Atari Lynx (horizontal) | `lynx-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| Atari Lynx (vertical)| `lynx-640x480` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
-| Megaduck | `megaduck-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| NeoGeo Pocket | `ngp-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| NeoGeo Pocket Color | `ngpc-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| Pico-8 | `pico8-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| PlayStation Portable | `psp-640x480` | Overlay by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| Pokemon Mini | `pokemini-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| Supervision | `supervision-640x480` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| Virtual Boy | `virtualboy-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| WonderSwan | `wswan-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| WonderSwan Color | `wswanc-640x480` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-
-## 4:3 (1024x768) bezels
-
-Same as 640x480. All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 1024x768.
-
-## 1:1 (720x720) bezels
+All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 1024x768.
 
 | System | Filename | Source |
 | ------ | -------- | ------ |
-| Default (vertical) | `default-90-720x720`, `default-270-720x720` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
-| MAME | `fbneo-720x720` | by [gonejack](https://github.com/gonejack/rgb30) |
-| FBNeo (vertical) | `fbneo-90-720x720`, `fbneo-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
-| MAME | `mame-720x720` | by [gonejack](https://github.com/gonejack/rgb30) |
-| MAME (vertical) | `mame-90-720x720`, `mame-270-720x720` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
-| Amiga | `amiga-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Amiga 500 | `amiga500-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Amiga 600 | `amiga-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Amiga 1200 | `amiga-1200-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Amiga CD32 | `amigacd32-1200-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Amiga CDTV | `amigacdtv-1200-600-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Atari 2600 | `atari2600-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Atari 5200 | `atari5200-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Atari 7800 | `atari7800-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Atari Lynx | `lynx-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Atari Lynx (vertical) | `lynx-90-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| C64 | `c64-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| DOS | `dos-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Dreamcast | `dreamcast-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Famicom Disk System | `fds-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Gameboy | `gb-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| Gameboy Advance | `gba-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Gameboy Color | `gbc-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| Game Gear | `gamegear-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| Master System | `mastersystem-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| Mega Drive | `megadrive-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| N64 | `n64-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| NeoGeo | `neogeo-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| NeoGeo Pocket | `ngp-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| NeoGeo Pocket Color | `ngpc-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| NES | `nes-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| PC Engine | `pcengine-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine |
-| PC Engine CD | `pcenginecd-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine CD |
-| PlayStation | `psx-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| PlayStation Portable | `psp-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| ScummVM | `scummvm-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Sega 32X | `sega32x-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Sega CD | `segacd-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| SG-1000 | `sg1000-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| SNES | `snes-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| SNES MSU-1 | `snes_msu-1-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Virtualboy | `virtualboy-720x720` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| WonderSwan | `wswan-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| WonderSwan (vertical) | `wswan-90-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| WonderSwan Color | `wswan-90-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| WonderSwan Color (vertical) | `wswan-90-90-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| X68000 | `x68000-720x720` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Default (vertical) | `default-90-4_3`, `default-270-4_3` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
+| FBNeo (vertical) | `fbneo-90-4_3`, `fbneo-270-4_3` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
+| MAME (vertical) | `fbneo-90-4_3`, `fbneo-270-4_3` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
+| Gameboy | `gb-4_3` | Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Advance | `gba-4_3` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Advance SP (alternative) | `gba-alt-4_3` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
+| Gameboy Color | `gbc-4_3` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
+| Atari Lynx (horizontal) | `lynx-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Atari Lynx (vertical)| `lynx-4_3` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
+| Megaduck | `megaduck-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| NeoGeo Pocket | `ngp-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| NeoGeo Pocket Color | `ngpc-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Pico-8 | `pico8-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| PlayStation Portable | `psp-4_3` | Overlay by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Pokemon Mini | `pokemini-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Supervision | `supervision-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| Virtual Boy | `virtualboy-4_3` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| WonderSwan | `wswan-4_3` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| WonderSwan Color | `wswanc-4_3` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+
+## 1:1 bezels
+
+| System | Filename | Source |
+| ------ | -------- | ------ |
+| Default (vertical) | `default-90-1_1`, `default-270-1_1` | by [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| MAME | `fbneo-1_1` | by [gonejack](https://github.com/gonejack/rgb30) |
+| FBNeo (vertical) | `fbneo-90-1_1`, `fbneo-270-1_1` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| MAME | `mame-1_1` | by [gonejack](https://github.com/gonejack/rgb30) |
+| MAME (vertical) | `mame-90-1_1`, `mame-270-1_1` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 720x720 scale for vertical aspect ratio |
+| Amiga | `amiga-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga 500 | `amiga500-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga 600 | `amiga-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga 1200 | `amiga-1200-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga CD32 | `amigacd32-1200-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Amiga CDTV | `amigacdtv-1200-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Atari 2600 | `atari2600-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari 5200 | `atari5200-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari 7800 | `atari7800-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari Lynx | `lynx-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari Lynx (vertical) | `lynx-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| C64 | `c64-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| DOS | `dos-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Dreamcast | `dreamcast-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Famicom Disk System | `fds-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Gameboy | `gb-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| Gameboy Advance | `gba-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Gameboy Color | `gbc-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| Game Gear | `gamegear-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| Master System | `mastersystem-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Mega Drive | `megadrive-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| N64 | `n64-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| NeoGeo | `neogeo-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| NeoGeo Pocket | `ngp-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| NeoGeo Pocket Color | `ngpc-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| NES | `nes-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| PC Engine | `pcengine-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine |
+| PC Engine CD | `pcenginecd-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine CD |
+| PlayStation | `psx-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| PlayStation Portable | `psp-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| ScummVM | `scummvm-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
+| Sega 32X | `sega32x-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Sega CD | `segacd-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| SG-1000 | `sg1000-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| SNES | `snes-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| SNES MSU-1 | `snes_msu-1-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Virtualboy | `virtualboy-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| WonderSwan | `wswan-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| WonderSwan (vertical) | `wswan-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| WonderSwan Color | `wswan-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| WonderSwan Color (vertical) | `wswan-90-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| X68000 | `x68000-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
