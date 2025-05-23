@@ -20,8 +20,8 @@ License (https://creativecommons.org/licenses/by-sa/4.0/),
 unless they are covered by a different license.
 
 
-Credits (16:9 1920x1080)
-========================
+Credits (16:9)
+==============
 
 ll 16:9 bezels have been adopted from Batocera Bezels
 (https://github.com/batocera-linux/batocera-bezel) and have
@@ -36,8 +36,8 @@ Bezels by Duimon can be identified by a watermark which
 indciates the CC BY-NC-ND license.
 
 
-Credits (3:2 720x480)
-=====================
+Credits (3:2)
+=============
 
 All 16:9 and 3:2 bezels have been adopted from Batocera
 (https://github.com/batocera-linux/batocera-bezel) and 
@@ -45,242 +45,242 @@ have been published under the LGPL v3 License
 (https://www.gnu.org/licenses/lgpl-3.0.html), except for
 the bezels listed below.
 
-amiga-720x480                   by Duimon for Batocera Bezels
+amiga-3_2                       by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-amiga500-720x480                by Duimon for Batocera Bezels
+amiga500-3_2                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-atari800-720x480                by Duimon for Batocera Bezels
+atari800-3_2                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-atari2600-720x480               by Duimon for Batocera Bezels
+atari2600-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-atari5200-720x480               by Duimon for Batocera Bezels
+atari5200-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-atari7800-720x480               by Duimon for Batocera Bezels
+atari7800-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-c64-720x480                     by Duimon for Batocera Bezels
+c64-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-dreamcast-720x480               by Duimon for Batocera Bezels
+dreamcast-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-gamegear-720x480                Overlay by drkhrse
+gamegear-3_2                    Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-gb-720x480                      by Duimon for Batocera Bezels
+gb-3_2                          by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-gbc-720x480                     by Duimon for Batocera Bezels
+gbc-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-lynx-720x480                    Overlay by drkhrse
+lynx-3_2                        Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-mastersystem-720x480            by Duimon for Batocera Bezels
+mastersystem-3_2                by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-megadrive-720x480               by Duimon for Batocera Bezels
+megadrive-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-megaduck-720x480                Overlay by drkhrse
+megaduck-3_2                    Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-n64-720x480                     by Duimon for Batocera Bezels
+n64-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-neogeo-720x480                  by Duimon for Batocera Bezels
+neogeo-3_2                      by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-neogeocd-720x480                by Duimon for Batocera Bezels
+neogeocd-3_2                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-nes-720x480                     by Duimon for Batocera Bezels
+nes-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-ngp-720x480                     by Duimon for Batocera Bezels
+ngp-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-ngpc-720x480                    by Duimon for Batocera Bezels
+ngpc-3_2                        by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-pcengine-720x480                by Duimon for Batocera Bezels
+pcengine-3_2                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-pcenginecd-720x480              by Duimon for Batocera Bezels
+pcenginecd-3_2                  by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-pico8-720x480                   Overlay by drkhrse
+pico8-3_2                       Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-psp-720x480                     by Duimon for Batocera Bezels
+psp-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-psx-720x480                     by Duimon for Batocera Bezels
+psx-3_2                         by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-saturn-720x480                  by Duimon for Batocera Bezels
+saturn-3_2                      by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-scummvm-720x480                 by Duimon for Batocera Bezels
+scummvm-3_2                     by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-sega32x-720x480                 by Duimon for Batocera Bezels
+sega32x-3_2                     by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-segacd-720x480                  by Duimon for Batocera Bezels
+segacd-3_2                      by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-sg1000-720x480                  by Duimon for Batocera Bezels
+sg1000-3_2                      by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-snes-720x480                    by Duimon for Batocera Bezels
+snes-3_2                        by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-snes_msu-1-720x480              by Duimon for Batocera Bezels
+snes_msu-1-3_2                  by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-supervision-720x480             Overlay by drkhrse
+supervision-3_2                 Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-wswan-720x480                   by Duimon for Batocera Bezels
+wswan-3_2                       by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-wswan-90-720x480                by Duimon for Batocera Bezels
+wswan-90-3_2                    by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-wswanc-720x480                  by Duimon for Batocera Bezels
+wswanc-3_2                      by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-wswanc-90-720x480               by Duimon for Batocera Bezels
+wswanc-90-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
-x68000-90-720x480               by Duimon for Batocera Bezels
+x68000-90-3_2                   by Duimon for Batocera Bezels
                                 https://github.com/Duimon
                                 License: CC BY-NC-ND
 
 
-Credits (4:3 640x480/1024x768)
-==============================
-default-90-640x480              by Batocera Bezels
+Credits (4:3)
+=============
+default-90-4_3                  by Batocera Bezels
                                 adopted by chrizzo-hb to 640x480 scale
-default-270-640x480             by Batocera Bezels
+default-270-4_3                 by Batocera Bezels
                                 adopted by chrizzo-hb to 640x480 scale
-fbneo-90-640x480                by fabricecaruso for Batocera Bezels
-                                adopted by chrizzo-hb to 640x480 scale
-                                for vertical aspect ratio
-fbneo-270-640x480               by fabricecaruso for Batocera Bezels
+fbneo-90-4_3                    by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 640x480 scale
                                 for vertical aspect ratio
-mame-90-640x480                 by fabricecaruso for Batocera Bezels
+fbneo-270-4_3                   by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 640x480 scale
                                 for vertical aspect ratio
-mame-270-640x480                by fabricecaruso for Batocera Bezels
+mame-90-4_3                     by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 640x480 scale
                                 for vertical aspect ratio
-gamegear-640x480                Overlay by drkhrse
+mame-270-4_3                    by fabricecaruso for Batocera Bezels
+                                adopted by chrizzo-hb to 640x480 scale
+                                for vertical aspect ratio
+gamegear-4_3                    Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-gb-640x480                      Perfect DMG-EX (no grid) by mugwomp93
-gba-640x480                     Perfect GBA (no grid) by mugwomp93
-gba-alt-640x480                 Perfect GBA SP (no grid) by C1PH3RR
+gb-4_3                          Perfect DMG-EX (no grid) by mugwomp93
+gba-4_3                         Perfect GBA (no grid) by mugwomp93
+gba-alt-4_3                     Perfect GBA SP (no grid) by C1PH3RR
                                 adopted by chrizzo-hb
-gbc-640x480                     Perfect GBC (no grid) by mugwomp93
-lynx-640x480                    Overlay by drkhrse
+gbc-4_3                         Perfect GBC (no grid) by mugwomp93
+lynx-4_3                        Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
-megaduck-640x480                Overlay by drkhrse
+megaduck-4_3                    Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-ngp-640x480                     Overlay by drkhrse
+ngp-4_3                         Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
-ngpc-640x480                    Overlay by drkhrse
+ngpc-4_3                        Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
-pico8-640x480                   Overlay by drkhrse
+pico8-4_3                       Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
-psp-640x480                     Overlay by chrizzo-hb
-pokemini-640x480                Overlay by drkhrse
+psp-4_3                         Overlay by chrizzo-hb
+pokemini-4_3                    Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
-supervision-640x480             Overlay by drkhrse
+supervision-4_3                 Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
-virtualboy-640x480              Overlay by antiKk
+virtualboy-4_3                  Overlay by antiKk
                                 converted to Batocera format by chrizzo-hb
-wswan-640x480                   Overlay by antiKk
+wswan-4_3                       Overlay by antiKk
                                 converted to Batocera format by nvitaterna
-wswanc-640x480                  Overlay by antiKk
+wswanc-4_3                      Overlay by antiKk
                                 converted to Batocera format by nvitaterna
 
 
 Credits (1:1)
 =============
 
-default-90-720x720              by Batocera Bezels
+default-90-1_1                  by Batocera Bezels
                                 adopted	by chrizzo-hb to 720x720 scale
-default-270-720x720             by Batocera Bezels
+default-270-1_1                 by Batocera Bezels
                                 adopted	by chrizzo-hb to 720x720 scale
-fbneo-720x720                   by gonejack
-fbneo-90-720x720                by fabricecaruso for Batocera Bezels
+fbneo-1_1                       by gonejack
+fbneo-90-1_1                    by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 720x720 scale
-fbneo-270-720x720               by fabricecaruso for Batocera Bezels
+fbneo-270-1_1                   by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 720x720 scale
-mame-720x720                    by gonejack
-mame-90-720x720                 by fabricecaruso for Batocera Bezels
+mame-1_1                        by gonejack
+mame-90-1_1                     by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 720x720 scale
- mame-270-720x720               by fabricecaruso for Batocera Bezels
+ mame-270-1_1                   by fabricecaruso for Batocera Bezels
                                 adopted by chrizzo-hb to 720x720 scale
-amiga-720x720                   by chrizzo-hb
+amiga-1_1                       by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-amiga500-720x720                by chrizzo-hb
+amiga500-1_1                    by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-amiga-600-720x720               by chrizzo-hb
+amiga-600-1_1                   by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-amiga-1200-600-720x720          by chrizzo-hb
+amiga-1200-600-1_1              by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-amigacd32-1200-600-720x720      by chrizzo-hb
+amigacd32-1200-600-1_1          by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-amigacdtv-1200-600-720x720      by chrizzo-hb
+amigacdtv-1200-600-1_1          by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-atari2600-720x720               Boxart Bezel by Vidnez
-atari5200-720x720               Boxart Bezel by Vidnez
-atari7800-720x720               Boxart Bezel by Vidnez
-c64-720x720                     by chrizzo-hb
+atari2600-1_1                   Boxart Bezel by Vidnez
+atari5200-1_1                   Boxart Bezel by Vidnez
+atari7800-1_1                   Boxart Bezel by Vidnez
+c64-1_1                         by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-lynx-720x720                    Boxart Bezel by Vidnez
-lynx-90-720x720                 Boxart Bezel by Vidnez
-dos-720x720                     Bezel by chrizzo-hb
+lynx-1_1                        Boxart Bezel by Vidnez
+lynx-90-1_1                     Boxart Bezel by Vidnez
+dos-1_1                         Bezel by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-dreamcast-720x720               Boxart Bezel by Vidnez
-fds-720x720                     Boxart Bezel by Vidnez
-gb-720x720                      Boxart Bezel by Vidnez
+dreamcast-1_1                   Boxart Bezel by Vidnez
+fds-1_1                         Boxart Bezel by Vidnez
+gb-1_1                          Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
-gba-720x720                     Boxart Bezel by Vidnez
-gbc-720x720                     Boxart Bezel by Vidnez
+gba-1_1                         Boxart Bezel by Vidnez
+gbc-1_1                         Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
-gamegear-720x720                Boxart Bezel by Vidnez
+gamegear-1_1                    Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
-mastersystem-720x720            Boxart Bezel by Vidnez
+mastersystem-1_1                Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb
-megadrive-720x720               Boxart Bezel by Vidnez
-n64-720x720                     Boxart Bezel by Vidnez
-neogeo-720x720                  Boxart Bezel by Vidnez
-ngp-720x720                     Boxart Bezel by Vidnez
+megadrive-1_1                   Boxart Bezel by Vidnez
+n64-1_1                         Boxart Bezel by Vidnez
+neogeo-1_1                      Boxart Bezel by Vidnez
+ngp-1_1                         Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
-ngpc-720x720                    Boxart Bezel by Vidnez
+ngpc-1_1                        Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
-nes-720x720                     Boxart Bezel by Vidnez
-pcengine-720x720                Boxart Bezel by Vidnez
+nes-1_1                         Boxart Bezel by Vidnez
+pcengine-1_1                    Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width and PC Engine
-pcenginecd-720x720              Boxart Bezel by Vidnez
+pcenginecd-1_1                  Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width and PC Engine CD
-psx-720x720                     Boxart Bezel by Vidnez
-psp-720x720                     Bezel by chrizzo-hb
-scummvm-720x720                 Bezel by chrizzo-hb
+psx-1_1                         Boxart Bezel by Vidnez
+psp-1_1                         Bezel by chrizzo-hb
+scummvm-1_1                     Bezel by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-sega32x-720x720                 Boxart Bezel by Vidnez
-segacd-720x720                  Boxart Bezel by Vidnez
-sg1000-720x720                  Boxart Bezel by Vidnez
-snes-720x720                    Boxart Bezel by Vidnez
-snes_msu-1-720x720              Boxart Bezel by Vidnez
-virtualboy-720x720              Bezel by chrizzo-hb
-wswan-720x720                   Boxart Bezel by Vidnez
-wswan-90-720x720                Boxart Bezel by Vidnez
-wswan-90-720x720                Boxart Bezel by Vidnez
-wswan-90-90-720x720             Boxart Bezel by Vidnez
-x68000-720x720                  Boxart Bezel by Vidnez
+sega32x-1_1                     Boxart Bezel by Vidnez
+segacd-1_1                      Boxart Bezel by Vidnez
+sg1000-1_1                      Boxart Bezel by Vidnez
+snes-1_1                        Boxart Bezel by Vidnez
+snes_msu-1-1_1                  Boxart Bezel by Vidnez
+virtualboy-1_1                  Bezel by chrizzo-hb
+wswan-1_1                       Boxart Bezel by Vidnez
+wswan-90-1_1                    Boxart Bezel by Vidnez
+wswan-90-1_1                    Boxart Bezel by Vidnez
+wswan-90-90-1_1                 Boxart Bezel by Vidnez
+x68000-1_1                      Boxart Bezel by Vidnez
 
