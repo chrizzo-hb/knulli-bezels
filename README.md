@@ -74,7 +74,6 @@ You can use the customization options as explained above to **override** the def
 * download the [gba-4_3.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-4_3.png) bezel image from this repository
 * download the [gba-4_3.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-4_3.info) bezel info file from this repository
 * Copy both files to your new `decorations/default-knulli/systems` folder
-* Make sure to **rename** `gba-alt-4_3.png` to `gba-4_3.png`!
 
 Now launch a GBA game and be amazed that your original GBA bezel has been replaced by the SP variant!
 
