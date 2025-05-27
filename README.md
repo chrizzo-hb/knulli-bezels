@@ -71,7 +71,7 @@ You can use the customization options as explained above to **override** the def
 * On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
 * Create a new folder `default-knulli` inside your `decorations` folder
 * Create a new folder `systems` inside the `default-knulli` folder
-* download the [gba-alt-4_3.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-alt-4_3.png) bezel image from this repository
+* download the [gba-4_3.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-4_3.png) bezel image from this repository
 * download the [gba-4_3.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-4_3.info) bezel info file from this repository
 * Copy both files to your new `decorations/default-knulli/systems` folder
 * Make sure to **rename** `gba-alt-4_3.png` to `gba-4_3.png`!
