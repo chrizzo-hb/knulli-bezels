@@ -181,8 +181,6 @@ gamegear-4_3                    Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
 gb-4_3                          Perfect DMG-EX (no grid) by mugwomp93
 gba-4_3                         Perfect GBA (no grid) by mugwomp93
-gba-alt-4_3                     Perfect GBA SP (no grid) by C1PH3RR
-                                adopted by chrizzo-hb
 gbc-4_3                         Perfect GBC (no grid) by mugwomp93
 lynx-4_3                        Overlay by drkhrse
                                 converted to Batocera format by nvitaterna

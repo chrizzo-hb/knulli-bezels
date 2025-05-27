@@ -41,8 +41,8 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 * Create a new folder `games` inside the `default-knulli` folder
 * Put your preferred system- or game-specific bezel `png` files into the respective folder
 * Mind the naming pattern:
-    * `<system>-<resolution>.png` for bezels with a specific aspect ratio, e.g. `mame-4_3.png` for a 4:3 aspect ratio 640x480 screen
-    * `<system>-<rotation>-<resolution>.png` for bezels for rotated games with a device-specific resolution, e.g. `mame-90-4_3.png` for running games which are rotated by 90° on a 4:3 aspect ratio 640x480 screen
+    * `<system>-<aspect ratio>.png` for bezels with a specific aspect ratio, e.g. `mame-4_3.png` for a 4:3 aspect ratio 640x480 screen
+    * `<system>-<rotation>-<aspect ratio>.png` for bezels for rotated games with a device-specific resolution, e.g. `mame-90-4_3.png` for running games which are rotated by 90° on a 4:3 aspect ratio 640x480 screen
 * Add a corresponding `info` file for every bezel, e.g. `mame-4_3.info` for `mame-4_3.png`
     * `width` and `height` set the total screen resolution
     * `top`, `bottom`, `left`, and `right` are directional offsets from the respective borders of the screen
@@ -71,8 +71,8 @@ You can use the customization options as explained above to **override** the def
 * On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
 * Create a new folder `default-knulli` inside your `decorations` folder
 * Create a new folder `systems` inside the `default-knulli` folder
-* download the [gba-alt-4_3.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-4_3.png) bezel image from this repository
-* download the [gba-4_3.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-4_3.info) bezel info file from this repository
+* download the [gba-alt-4_3.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-alt-4_3.png) bezel image from this repository
+* download the [gba-4_3.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli-sp/systems/gba-4_3.info) bezel info file from this repository
 * Copy both files to your new `decorations/default-knulli/systems` folder
 * Make sure to **rename** `gba-alt-4_3.png` to `gba-4_3.png`!
 
@@ -148,7 +148,7 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | MAME (vertical) | `fbneo-90-4_3`, `fbneo-270-4_3` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
 | Gameboy | `gb-4_3` | Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Advance | `gba-4_3` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Gameboy Advance SP (alternative) | `gba-alt-4_3` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
+| Gameboy Advance SP | `gba-4_3` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
 | Gameboy Color | `gbc-4_3` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Atari Lynx (horizontal) | `lynx-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | Atari Lynx (vertical)| `lynx-4_3` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
