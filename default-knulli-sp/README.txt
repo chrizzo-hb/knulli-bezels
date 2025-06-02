@@ -22,5 +22,5 @@ unless they are covered by a different license.
 
 Credits (4:3)
 =============
-gba-alt-4_3                     Perfect GBA SP (no grid) by C1PH3RR
+gba-4_3                         Perfect GBA SP (no grid) by C1PH3RR
                                 adopted by chrizzo-hb
