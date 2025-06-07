@@ -36,6 +36,11 @@ The KNULLI bezel set `default-knulli` comes **pre-installed** with KNULLI since 
 
 ### Customization
 
+> [!IMPORTANT]
+> Since the release of **KNULLI Gladiator**, the **naming pattern has changed** from a **resolution-based** pattern to an **aspect-ratio-based pattern**. Hence, the instructions below are only compatible with KNULLI versions **Gladiator and below**!
+>
+> You will find the instructions for KNULLI versions **above Gladiator** in the [**main branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/main?tab=readme-ov-file#customization).
+
 If you like the pre-installed version of  `default-knulli` on your KNULLI device but would like to customize a little bit by replacing specific bezels, try the following:
 
 * On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
@@ -68,6 +73,11 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 ```
 
 ### Example: Replacing the GBA bezel decoration with a GBA SP variant
+
+> [!IMPORTANT]
+> Since the release of **KNULLI Gladiator**, the **naming pattern has changed** from a **resolution-based** pattern to an **aspect-ratio-based pattern**. Hence, the instructions below are only compatible with KNULLI versions **Gladiator and below**!
+>
+> You will find the instructions for KNULLI versions **above Gladiator** in the [**main branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/main?tab=readme-ov-file#example-replacing-the-gba-bezel-decoration-with-a-gba-sp-variant).
 
 While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 640x480/1024x768 displays.
 
