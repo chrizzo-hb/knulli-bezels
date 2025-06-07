@@ -1,5 +1,8 @@
 # KNULLI Bezels
 
+> [!CAUTION]
+> This is the legacy version of the KNULLI default bezels pack. It is **compatible with KNULLI Gladiator and below**. This version is **not** compatible with later versions of KNULLI. You find the bezel pack for **newer KNULLI versions** in the [**main branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/blob/main/).
+
 A compilation of bezels to be used with [KNULLI](https://knulli.org).
 
 KNULLI is an open-source custom firmware (CFW) for **handheld** retro gaming devices. It is a fork of [Batocera](https://batocera.org).
@@ -74,11 +77,11 @@ You can use the customization options as explained above to **override** the def
 * Create a new folder `default-knulli` inside your `decorations` folder
 * Create a new folder `systems` inside the `default-knulli` folder
 * For a 640x480 display
-    * download the [gba-alt-640x480.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-640x480.png) bezel image from this repository
-    * download the [gba-640x480.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-640x480.info) bezel info file from this repository
+    * download the [gba-alt-640x480.png](https://github.com/chrizzo-hb/knulli-bezels/blob/legacy-resolution-based-pattern/default-knulli/systems/gba-alt-640x480.png) bezel image from this repository
+    * download the [gba-640x480.info](https://github.com/chrizzo-hb/knulli-bezels/blob/legacy-resolution-based-pattern/default-knulli/systems/gba-640x480.info) bezel info file from this repository
 * For a 1024x768 display
-    * download the [gba-alt-1024x768.png](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-alt-1024x768.png) bezel image from this repository
-    * download the [gba-1024x768.info](https://github.com/chrizzo-hb/knulli-bezels/blob/main/default-knulli/systems/gba-1024x768.info) bezel info file from this repository
+    * download the [gba-alt-1024x768.png](https://github.com/chrizzo-hb/knulli-bezels/blob/legacy-resolution-based-pattern/default-knulli/systems/gba-alt-1024x768.png) bezel image from this repository
+    * download the [gba-1024x768.info](https://github.com/chrizzo-hb/knulli-bezels/blob/legacy-resolution-based-pattern/default-knulli/systems/gba-1024x768.info) bezel info file from this repository
 * Copy both files to your new `decorations/default-knulli/systems` folder
 * Make sure to **rename** `gba-alt-640x480.png` to `gba-640x480.png` (or `gba-alt-1024x768.png` to `gba-1024x768.png`)!
 
