@@ -75,7 +75,7 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 > [!IMPORTANT]
 > Since the release of **KNULLI Gladiator**, the **naming pattern has changed** from a **resolution-based** pattern to an **aspect-ratio-based pattern**. Hence, the instructions below are only compatible with KNULLI versions **above** Gladiator!
 >
-> You will find the instructions for **KNULLI Gladiator and below** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern?tab=readme-ov-file#customization).
+> You will find the instructions for **KNULLI Gladiator and below** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern?tab=readme-ov-file#example-replacing-the-gba-bezel-decoration-with-a-gba-sp-variant).
 
 > [!TIP]
 > You can simply enable the SP-specific GBA bezel decoration via EmulationStation: Go to the Gameboy Advance system and press *Select* to bring up the system menu, then go to *Advanced System Options*. Find *Decorations* and set *Decoration Set* to *DEFAULT-KNULLI-SP*. (The set does **only** contain 4:3 and 16:9 bezel decorations for GBA!)
