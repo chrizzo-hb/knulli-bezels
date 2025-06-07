@@ -20,6 +20,22 @@ License (https://creativecommons.org/licenses/by-sa/4.0/),
 unless they are covered by a different license.
 
 
+Credits (16:9)
+==============
+
+All 16:9 bezels have been adopted from Batocera Bezels
+(https://github.com/batocera-linux/batocera-bezel) and have
+been published under the LGPL v3 License
+(https://www.gnu.org/licenses/lgpl-3.0.html), except for
+the bezels by Duimon (https://github.com/Duimon) for
+Batocera Bezels, which have been published under a Creative
+Commons Attribution-NonCommercial-NoDerivatives 4.0
+International License
+(https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Bezels by Duimon can be identified by a watermark which
+indciates the CC BY-NC-ND license.
+
+
 Credits (4:3)
 =============
 gba-4_3                         Perfect GBA SP (no grid) by C1PH3RR

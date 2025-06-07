@@ -23,7 +23,7 @@ unless they are covered by a different license.
 Credits (16:9)
 ==============
 
-ll 16:9 bezels have been adopted from Batocera Bezels
+All 16:9 bezels have been adopted from Batocera Bezels
 (https://github.com/batocera-linux/batocera-bezel) and have
 been published under the LGPL v3 License
 (https://www.gnu.org/licenses/lgpl-3.0.html), except for
