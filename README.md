@@ -36,6 +36,11 @@ The KNULLI bezel set `default-knulli` comes **pre-installed** with KNULLI since 
 
 ### Customization
 
+> [!IMPORTANT]
+> Since the release of **KNULLI Gladiator**, the **naming pattern has changed** from a **resolution-based** pattern to an **aspect-ratio-based pattern**. Hence, the instructions below are only compatible with KNULLI versions **above** Gladiator!
+>
+> You will find the instructions for **KNULLI Gladiator and below** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern?tab=readme-ov-file#customization).
+
 If you like the pre-installed version of  `default-knulli` on your KNULLI device but would like to customize a little bit by replacing specific bezels, try the following:
 
 * On your KNULLI device, select *DEFAULT-KNULLI* in the *Decorations* subsection of the *Game Settings*
@@ -68,6 +73,11 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 ### Example: Replacing the GBA bezel decoration with a GBA SP variant
 
 > [!IMPORTANT]
+> Since the release of **KNULLI Gladiator**, the **naming pattern has changed** from a **resolution-based** pattern to an **aspect-ratio-based pattern**. Hence, the instructions below are only compatible with KNULLI versions **above** Gladiator!
+>
+> You will find the instructions for **KNULLI Gladiator and below** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern?tab=readme-ov-file#customization).
+
+> [!TIP]
 > You can simply enable the SP-specific GBA bezel decoration via EmulationStation: Go to the Gameboy Advance system and press *Select* to bring up the system menu, then go to *Advanced System Options*. Find *Decorations* and set *Decoration Set* to *DEFAULT-KNULLI-SP*. (The set does **only** contain 4:3 and 16:9 bezel decorations for GBA!)
 >
 > However, for the purpose of learning  from an example how to override bezel decorations manually, you might also follow the steps below.
