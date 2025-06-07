@@ -1,5 +1,8 @@
 # KNULLI Bezels
 
+> [!IMPORTANT]
+> This is the latest version of the KNULLI default bezels pack. It is **compatible with KNULLI verions above Gladiator**. This version is **not** compatible with **Gladiator and below** versions of KNULLI. You find the bezel pack for **older KNULLI versions** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern/).
+
 A compilation of bezels to be used with [KNULLI](https://knulli.org).
 
 KNULLI is an open-source custom firmware (CFW) for **handheld** retro gaming devices. It is a fork of [Batocera](https://batocera.org).
@@ -63,6 +66,11 @@ If you like the pre-installed version of  `default-knulli` on your KNULLI device
 ```
 
 ### Example: Replacing the GBA bezel decoration with a GBA SP variant
+
+> [!IMPORTANT]
+> You can simply enable the SP-specific GBA bezel decoration via EmulationStation: Go to the Gameboy Advance system and press *Select* to bring up the system menu, then go to *Advanced System Options*. Find *Decorations* and set *Decoration Set* to *DEFAULT-KNULLI-SP*. (The set does **only** contain 4:3 and 16:9 bezel decorations for GBA!)
+>
+> However, for the purpose of learning  from an example how to override bezel decorations manually, you might also follow the steps below.
 
 While the default GBA bezel works fine for most devices, users of clamshell devices, e.g., the Anbernic RG35XX SP, obviously prefer a GBA SP variant for their handhelds. Consequently, `default-knulli` comes with an SP variant for 4:3 displays.
 
