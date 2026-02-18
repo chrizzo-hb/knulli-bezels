@@ -1,7 +1,7 @@
 # KNULLI Bezels
 
 > [!IMPORTANT]
-> This is the latest version of the KNULLI default bezels pack. It is **compatible with KNULLI verions above Gladiator**. This version is **not** compatible with **Gladiator and below** versions of KNULLI. You find the bezel pack for **older KNULLI versions** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern/).
+> This is the latest version of the KNULLI default bezels pack. It is **compatible with KNULLI versions above Gladiator**. This version is **not** compatible with **Gladiator and below** versions of KNULLI. You find the bezel pack for **older KNULLI versions** in the [**legacy branch** of this repository](https://github.com/chrizzo-hb/knulli-bezels/tree/legacy-resolution-based-pattern/).
 
 A compilation of bezels to be used with [KNULLI](https://knulli.org).
 
