@@ -170,8 +170,8 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | Atari Lynx (horizontal) | `lynx-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | Atari Lynx (vertical)| `lynx-4_3` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | Megaduck | `megaduck-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [chrizzo-hb](https://github.com/chrizzo-hb) |
-| NeoGeo Pocket | `ngp-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
-| NeoGeo Pocket Color | `ngpc-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
+| NeoGeo Pocket | `ngp-4_3` | Overlay by [mugwomp93](https://github.com/mugwomp93) |
+| NeoGeo Pocket Color | `ngpc-4_3` | Overlay by [mugwomp93](https://github.com/mugwomp93) |
 | Pico-8 | `pico8-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | PlayStation Portable | `psp-4_3` | Overlay by [chrizzo-hb](https://github.com/chrizzo-hb) |
 | Pokemon Mini | `pokemini-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |

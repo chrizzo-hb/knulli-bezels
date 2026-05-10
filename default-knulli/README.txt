@@ -186,10 +186,8 @@ lynx-4_3                        Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
 megaduck-4_3                    Overlay by drkhrse
                                 converted to Batocera format by chrizzo-hb
-ngp-4_3                         Overlay by drkhrse
-                                converted to Batocera format by nvitaterna
-ngpc-4_3                        Overlay by drkhrse
-                                converted to Batocera format by nvitaterna
+ngp-4_3                         Overlay by mugwomp93
+ngpc-4_3                        Overlay by mugwomp93
 pico8-4_3                       Overlay by drkhrse
                                 converted to Batocera format by nvitaterna
 psp-4_3                         Overlay by chrizzo-hb
