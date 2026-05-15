@@ -239,7 +239,7 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 
 | System | Filename | Source |
 | ------ | -------- | ------ |
-| Gameboy Advance SP | `gba-4_3` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
+| Gameboy Advance SP | `gba-4_3` | Perfect GBA SP (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 
 ## Generic 16-by-9/4-by-3
 
