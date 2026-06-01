@@ -103,11 +103,13 @@ If you want to propose additions or changes to this bezel set, feel free to hand
 
 All works in this repository are published under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), unless they are covered by a different license. You will find links to the original sources, authors, and licenses in the sections below.
 
-## 16:9 bezels
+## Knulli-Default
+
+### 16:9 bezels
 
 All 16:9 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## 3:2 bezels
+### 3:2 bezels
 
 All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel) and have been published under the [LGPL v3 License](https://www.gnu.org/licenses/lgpl-3.0.html), except for the bezels listed below.
 
@@ -154,7 +156,7 @@ All 3:2 bezels have been adopted from [Batocera Bezels](https://github.com/batoc
 | Wonderswan Color (vertical) | `wswanc-90-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 | X68000 | `x68000-90-3_2` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
 
-## 4:3 bezels
+### 4:3 bezels
 
 All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 1024x768.
 
@@ -165,7 +167,6 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | MAME (vertical) | `fbneo-90-4_3`, `fbneo-270-4_3` | by [fabricecaruso](https://github.com/fabricecaruso) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), adopted by [chrizzo-hb](https://github.com/chrizzo-hb) to 640x480 scale for vertical aspect ratio |
 | Gameboy | `gb-4_3` | Perfect DMG-EX (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Advance | `gba-4_3` | Perfect GBA (no grid) by [mugwomp93](https://github.com/mugwomp93) |
-| Gameboy Advance SP | `gba-4_3` | Perfect GBA SP by [C1PH3RR](https://www.youtube.com/watch?v=3YU-_ZPXFhE), adopted by [chrizzo-hb] |
 | Gameboy Color | `gbc-4_3` | Perfect GBC (no grid) by [mugwomp93](https://github.com/mugwomp93) |
 | Atari Lynx (horizontal) | `lynx-4_3` | Overlay by [drkhrse](https://github.com/drkhrse/drkhrse_miyoo_bezels), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | Atari Lynx (vertical)| `lynx-4_3` | by [Duimon](https://github.com/Duimon) for [Batocera Bezels](https://github.com/batocera-linux/batocera-bezel), published under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) |
@@ -180,7 +181,7 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | WonderSwan | `wswan-4_3` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 | WonderSwan Color | `wswanc-4_3` | Overlay by [antiKk](https://github.com/antiKk/muOS-Overlays), converted to Batocera format by [nvitaterna](https://github.com/nvitaterna/batocera_4_3_handheld_bezels) |
 
-## 1:1 bezels
+### 1:1 bezels
 
 | System | Filename | Source |
 | ------ | -------- | ------ |
@@ -231,3 +232,15 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | WonderSwan Color | `wswan-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | WonderSwan Color (vertical) | `wswan-90-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | X68000 | `x68000-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+
+## Knulli-Default-SP
+
+### 4:3 bezels
+
+| System | Filename | Source |
+| ------ | -------- | ------ |
+| Gameboy Advance SP | `gba-4_3` | Perfect GBA SP (no grid) by [mugwomp93](https://github.com/mugwomp93) |
+
+## Generic 16-by-9/4-by-3
+
+A simple generic multi-purpose bezel decoration (e.g. for Ports), based on the background image by [angel77lopez](https://forums.pimoroni.com/t/new-artwork-for-picade-cabinet/2618/495). It is intended to match with the [Knulli Bootlogo by chrizzo-hb](https://github.com/chrizzo-hb/knulli-bootlogo).
