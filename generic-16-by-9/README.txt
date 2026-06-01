@@ -20,22 +20,13 @@ License (https://creativecommons.org/licenses/by-sa/4.0/),
 unless they are covered by a different license.
 
 
-Credits (16:9)
-==============
+Credits
+=======
+A simple generic multi-purpose bezel decoration (e.g. for
+Ports), based on the background image by angel77lopez:
+https://forums.pimoroni.com/t/new-artwork-for-picade-cabinet/2618/495
 
-All 16:9 bezels have been adopted from Batocera Bezels
-(https://github.com/batocera-linux/batocera-bezel) and have
-been published under the LGPL v3 License
-(https://www.gnu.org/licenses/lgpl-3.0.html), except for
-the bezels by Duimon (https://github.com/Duimon) for
-Batocera Bezels, which have been published under a Creative
-Commons Attribution-NonCommercial-NoDerivatives 4.0
-International License
-(https://creativecommons.org/licenses/by-nc-nd/4.0/).
-Bezels by Duimon can be identified by a watermark which
-indciates the CC BY-NC-ND license.
+It is intended to match with the Knulli Bootlogo by chrizzo-hb:
+https://github.com/chrizzo-hb/knulli-bootlogo
 
 
-Credits (4:3)
-=============
-gba-4_3                         Perfect GBA SP (no grid) by mugwomp93
