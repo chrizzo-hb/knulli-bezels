@@ -27,4 +27,4 @@ The Game Boy Pocket overlays are designed to work with the Special 4 (TI-83 Lega
    5. Navigate to Colorization and select Special 4 (TI-83 Legacy) (near the bottom)
    6. Use the B buton to back out to the main menu
 
-I highly recommend using my shader preset with the GBP overlays as the overlay are adapted to account for the effect of the shader preset (the pixel transparency component, specifically). To do so, follow the instructions in the shader section above. If for, some reason, you don't want to use a shader with this overlay, select the gb-integer-scale-noshader version instead. You'll still need to change the colorization to Special 4 (TI-83 Legacy).
+I highly recommend using my shader preset with the GBP overlays as the colors are adapted to complement the effects of the shader preset (the pixel transparency component, specifically). To do so, follow the instructions in the shader section above. If for, some reason, you don't want to use a shader with this overlay, select the gb-integer-scale-noshader version instead. You'll still need to change the colorization to Special 4 (TI-83 Legacy).
