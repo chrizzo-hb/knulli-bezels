@@ -232,7 +232,7 @@ amigacd32-1200-600-1_1          by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
 amigacdtv-1200-600-1_1          by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
-atari2600-1_1                   Boxart Bezel by Vidnez
+atari2600-1_1                   Bezel by mugwomp93
 atari5200-1_1                   Boxart Bezel by Vidnez
 atari7800-1_1                   Boxart Bezel by Vidnez
 c64-1_1                         by chrizzo-hb
@@ -243,11 +243,9 @@ dos-1_1                         Bezel by chrizzo-hb
                                 based on DOSBox Overlay by Ifan
 dreamcast-1_1                   Boxart Bezel by Vidnez
 fds-1_1                         Boxart Bezel by Vidnez
-gb-1_1                          Boxart Bezel by Vidnez
-                                adopted by chrizzo-hb for max width
-gba-1_1                         Boxart Bezel by Vidnez
-gbc-1_1                         Boxart Bezel by Vidnez
-                                adopted by chrizzo-hb for max width
+gb-1_1                          Bezel by mugwomp93
+gba-1_1                         Bezel by mugwomp93
+gbc-1_1                         Bezel by mugwomp93
 gamegear-1_1                    Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
 mastersystem-1_1                Boxart Bezel by Vidnez
@@ -255,11 +253,9 @@ mastersystem-1_1                Boxart Bezel by Vidnez
 megadrive-1_1                   Boxart Bezel by Vidnez
 n64-1_1                         Boxart Bezel by Vidnez
 neogeo-1_1                      Boxart Bezel by Vidnez
-ngp-1_1                         Boxart Bezel by Vidnez
-                                adopted by chrizzo-hb for max width
-ngpc-1_1                        Boxart Bezel by Vidnez
-                                adopted by chrizzo-hb for max width
-nes-1_1                         Boxart Bezel by Vidnez
+ngp-1_1                         Bezel by KugelFanger and mugwomp93
+ngpc-1_1                        Bezel by KugelFanger and mugwomp93
+nes-1_1                         Bezel by mugwomp93
 pcengine-1_1                    Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width and PC Engine
 pcenginecd-1_1                  Boxart Bezel by Vidnez
@@ -271,8 +267,8 @@ scummvm-1_1                     Bezel by chrizzo-hb
 sega32x-1_1                     Boxart Bezel by Vidnez
 segacd-1_1                      Boxart Bezel by Vidnez
 sg1000-1_1                      Boxart Bezel by Vidnez
-snes-1_1                        Boxart Bezel by Vidnez
-snes_msu-1-1_1                  Boxart Bezel by Vidnez
+snes-1_1                        Bezel by mugwomp93
+snes_msu-1-1_1                  Bezel by mugwomp93
 virtualboy-1_1                  Bezel by chrizzo-hb
 wswan-1_1                       Boxart Bezel by Vidnez
 wswan-90-1_1                    Boxart Bezel by Vidnez

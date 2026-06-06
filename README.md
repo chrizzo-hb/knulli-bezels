@@ -196,7 +196,7 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | Amiga 1200 | `amiga-1200-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
 | Amiga CD32 | `amigacd32-1200-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
 | Amiga CDTV | `amigacdtv-1200-600-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
-| Atari 2600 | `atari2600-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| Atari 2600 | `atari2600-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Atari 5200 | `atari5200-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Atari 7800 | `atari7800-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Atari Lynx | `lynx-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
@@ -205,17 +205,17 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | DOS | `dos-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb), based on DOSBox Overlay by [Ifan](https://forums.libretro.com/t/dosbox-overlay/19236) |
 | Dreamcast | `dreamcast-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Famicom Disk System | `fds-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Gameboy | `gb-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| Gameboy Advance | `gba-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| Gameboy Color | `gbc-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
+| Gameboy | `gb-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Advance | `gba-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Color | `gbc-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Game Gear | `gamegear-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
 | Master System | `mastersystem-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) |
 | Mega Drive | `megadrive-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | N64 | `n64-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | NeoGeo | `neogeo-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| NeoGeo Pocket | `ngp-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| NeoGeo Pocket Color | `ngpc-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| NES | `nes-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| NeoGeo Pocket | `ngp-1_1` | Bezel by KugelFanger and [mugwomp93](https://github.com/mugwomp93) |
+| NeoGeo Pocket Color | `ngpc-1_1` | Bezel by KugelFanger and [mugwomp93](https://github.com/mugwomp93)|
+| NES | `nes-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | PC Engine | `pcengine-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine |
 | PC Engine CD | `pcenginecd-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width and PC Engine CD |
 | PlayStation | `psx-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
@@ -224,8 +224,8 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | Sega 32X | `sega32x-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Sega CD | `segacd-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | SG-1000 | `sg1000-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| SNES | `snes-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
-| SNES MSU-1 | `snes_msu-1-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
+| SNES | `snes-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
+| SNES MSU-1 | `snes_msu-1-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Virtualboy | `virtualboy-1_1` | Bezel by [chrizzo-hb](https://github.com/chrizzo-hb) |
 | WonderSwan | `wswan-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | WonderSwan (vertical) | `wswan-90-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
