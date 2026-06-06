@@ -1,4 +1,4 @@
-Please read ALL of the intructions below before applying overlays and/or shaders. Note the Game Boy Pocket-specific instructions at the end.
+Please read ALL of the intructions below before applying overlays and/or shaders.
 
 Credits: 
 - All LCD grids by 1playerinsertcoin (https://www.reddit.com/user/1playerinsertcoin/submitted/)
