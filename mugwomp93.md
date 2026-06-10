@@ -13,28 +13,29 @@ The mugwomp93 sets are still a work in progress - not every system has a bezel o
 
 ## Bezel Overview
 
-| system    | resolution | mugwomp93-<br>integer-grids | mugwomp93-<br>integer-<br>nogrids | mugwomp93-<br>noninteger-<br>grids | mugwomp93<br>overlays in<br>default-knulli |
-| :---      | :---       | :---:                       | :---:                             | :---:                             | :---:                                       |
-| **_handhelds_**        |                             |                                   |                                   |                                             |
-| gb        | 640x480    | y (gbp)                     | y (gbp)                           | -                                 | y                                           |
-| gb        | 720x720    | y (gbp)                     | y (gbp)                           | -                                 | y                                           |
-| gb        | 1024x768   | y (gbp)                     | y (gbp)                           | -                                 | y                                           |
-| gbc       | 640x480    | -                           | -                                 | y                                 | y                                           |
-| gbc       | 720x720    | -                           | -                                 | y                                 | y                                           |
-| gbc       | 1024x768   | -                           | -                                 | -                                 | y                                           |
-| gba       | 640x480    | -                           | -                                 | y                                 | y                                           |
-| gba       | 720x720    | y                           | y                                 | y                                 | y                                           |
-| gba       | 1024x768   | -                           | -                                 | -                                 | y                                           |
-| ngp       | 640x480    | y                           | y                                 | -                                 | y                                           |
-| ngp       | 720x720    | y                           | y                                 | y                                 | y                                           |
-| ngp       | 1024x768   | -                           | -                                 | -                                 | y                                           |
-| ngpc      | 640x480    | y                           | y                                 | -                                 | y                                           |
-| ngpc      | 720x720    | y                           | y                                 | y                                 | y                                           |
-| ngpc      | 1024x768   | -                           | -                                 | -                                 | y                                           |
-| gamegear  | 640x480    | n/a (4:3)                   | n/a (4:3)                         | n/a (4:3)                         | n/a (4:3)                                   |
-| gamegear  | 720x720    | -                           | -                                 | y (8:7)                           | -                                           |
-| gamegear  | 1024x768   | n/a (4:3)                   | n/a (4:3)                         | n/a (4:3)                         | n/a (4:3)                                   |
-| **_consoles_**         |                             |                                   |                                   |                                             |
-| nes       | 720x720    | -                           | -                                 | -                                 | y                                           |
-| snes      | 720x720    | -                           | -                                 | -                                 | y                                           |
-| atari2600 | 720x720    | -                           | -                                 | -                                 | y                                           |
+| system       | resolution | mugwomp93-<br>integer-grids | mugwomp93-<br>integer-<br>nogrids | mugwomp93-<br>noninteger-<br>grids | mugwomp93<br>overlays in<br>default-knulli |
+| :---         | :---       | :---:                       | :---:                             | :---:                             | :---:                                       |
+| **_handhelds_**           |                             |                                   |                                   |                                             |
+| gb           | 640x480    | y (gbp)                     | y (gbp)                           | -                                 | y                                           |
+| gb           | 720x720    | y (gbp)                     | y (gbp)                           | -                                 | y                                           |
+| gb           | 1024x768   | y (gbp)                     | y (gbp)                           | -                                 | y                                           |
+| gbc          | 640x480    | -                           | -                                 | y                                 | y                                           |
+| gbc          | 720x720    | -                           | -                                 | y                                 | y                                           |
+| gbc          | 1024x768   | -                           | -                                 | -                                 | y                                           |
+| gba          | 640x480    | -                           | -                                 | y                                 | y                                           |
+| gba          | 720x720    | y                           | y                                 | y                                 | y                                           |
+| gba          | 1024x768   | -                           | -                                 | -                                 | y                                           |
+| ngp          | 640x480    | y                           | y                                 | -                                 | y                                           |
+| ngp          | 720x720    | y                           | y                                 | y                                 | y                                           |
+| ngp          | 1024x768   | -                           | -                                 | -                                 | y                                           |
+| ngpc         | 640x480    | y                           | y                                 | -                                 | y                                           |
+| ngpc         | 720x720    | y                           | y                                 | y                                 | y                                           |
+| ngpc         | 1024x768   | -                           | -                                 | -                                 | y                                           |
+| gamegear     | 640x480    | n/a (4:3)                   | n/a (4:3)                         | n/a (4:3)                         | n/a (4:3)                                   |
+| gamegear     | 720x720    | -                           | -                                 | y (8:7)                           | -                                           |
+| gamegear     | 1024x768   | n/a (4:3)                   | n/a (4:3)                         | n/a (4:3)                         | n/a (4:3)                                   |
+| **_consoles_**            |                             |                                   |                                   |                                             |
+| nes          | 720x720    | -                           | -                                 | -                                 | y                                           |
+| snes         | 720x720    | -                           | -                                 | -                                 | y                                           |
+| mastersystem | 720x720    | -                           | -                                 | -                                 | y                                           |
+| atari2600    | 720x720    | -                           | -                                 | -                                 | y                                           |
