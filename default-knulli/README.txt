@@ -248,8 +248,7 @@ gba-1_1                         Bezel by mugwomp93
 gbc-1_1                         Bezel by mugwomp93
 gamegear-1_1                    Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
-mastersystem-1_1                Boxart Bezel by Vidnez
-                                adopted by chrizzo-hb
+mastersystem-1_1                Bezel by mugwomp93
 megadrive-1_1                   Boxart Bezel by Vidnez
 n64-1_1                         Boxart Bezel by Vidnez
 neogeo-1_1                      Boxart Bezel by Vidnez

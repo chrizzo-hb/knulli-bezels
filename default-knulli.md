@@ -133,7 +133,7 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | Gameboy Advance | `gba-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Gameboy Color | `gbc-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Game Gear | `gamegear-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
-| Master System | `mastersystem-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) |
+| Master System | `mastersystem-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Mega Drive | `megadrive-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | N64 | `n64-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | NeoGeo | `neogeo-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
