@@ -1,5 +1,8 @@
 Please read ALL of the intructions below before applying overlays and/or shaders.
 
+Credits:
+- 1:1 GBA based on gonejack's GBA overlay for the RGB30 (https://github.com/gonejack/rgb30/tree/main/RGB30)
+
 ### Applying the Overlays
 
 Due to the logic Knulli uses to select overlays and the associated naming conventions, I've divided my overlays into mutually exclusive decoration sets (integer scale with grids, integer scale without grids, non-integer scale with grids). Non-integer scale versions without grids are already included in default-knulli.

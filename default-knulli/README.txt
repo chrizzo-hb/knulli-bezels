@@ -245,6 +245,7 @@ dreamcast-1_1                   Boxart Bezel by Vidnez
 fds-1_1                         Boxart Bezel by Vidnez
 gb-1_1                          Bezel by mugwomp93
 gba-1_1                         Bezel by mugwomp93
+				based on GBA Overlay by gonejack
 gbc-1_1                         Bezel by mugwomp93
 gamegear-1_1                    Boxart Bezel by Vidnez
                                 adopted by chrizzo-hb for max width
