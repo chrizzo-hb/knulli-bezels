@@ -3,6 +3,7 @@ Please read ALL of the intructions below before applying overlays and/or shaders
 Credits: 
 - All LCD grids by 1playerinsertcoin (https://www.reddit.com/user/1playerinsertcoin/submitted/)
 - Non-integer scale 720x720 NGP and NGPC bezel designs by KugelFanger
+- 1:1 GBA based on gonejack's GBA overlay for the RGB30 (https://github.com/gonejack/rgb30/tree/main/RGB30)
 
 ### Applying the Overlays
 

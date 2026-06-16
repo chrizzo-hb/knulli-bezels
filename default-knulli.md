@@ -130,7 +130,7 @@ All bezels have been upscaled by [chrizzo-hb](https://github.com/chrizzo-hb) to 
 | Dreamcast | `dreamcast-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Famicom Disk System | `fds-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) |
 | Gameboy | `gb-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
-| Gameboy Advance | `gba-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
+| Gameboy Advance | `gba-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) based on GBA Overlay by [gonejack](https://github.com/gonejack/rgb30/tree/main/RGB30) |
 | Gameboy Color | `gbc-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
 | Game Gear | `gamegear-1_1` | Boxart Bezel by [Vidnez](https://github.com/Vidnez/Boxart-Bezels-for-RGB30) adopted by [chrizzo-hb](https://github.com/chrizzo-hb) for max width |
 | Master System | `mastersystem-1_1` | Bezel by [mugwomp93](https://github.com/mugwomp93) |
